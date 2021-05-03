@@ -1,0 +1,24 @@
+Total number of months: 86
+Total Revenue in period: $ 38382578
+Average monthly change in Revenue : $-2315.1176470588234
+Greatest Increase in Profits: Feb-2012 ($1926159)
+Greatest Decrease in Profits: Sep-2013 ($-2196167)
+
+
+
+Election Results
+________________________
+Total Votes: 3521001
+______________________________________
+
+Khan: 63.00% (2218231)
+
+Correy: 20.00% (704200)
+
+Li: 14.00% (492940)
+
+O'Tooley: 3.00% (105630)
+
+______________________________________
+Winner: Khan
+______________________________________
